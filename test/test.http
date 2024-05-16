@@ -1,0 +1,12 @@
+  http://localhost:4004/LibraryService/books HTTP/1.1
+
+### Add book
+  POST http://localhost:4004/LibraryService/books HTTP/1.1
+  Content-Type: application/json
+
+{
+"title": "soumik",
+"author": "s",
+"isbn": "o",
+"quantity": 1
+}
