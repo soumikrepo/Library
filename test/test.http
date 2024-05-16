@@ -5,8 +5,8 @@
   Content-Type: application/json
 
 {
-"title": "soumik",
-"author": "s",
-"isbn": "o",
-"quantity": 1
+      "title": "Biology",
+      "author": "Chandan",
+      "isbn": "987",
+      "quantity": 27
 }
